@@ -4,3 +4,4 @@ class CreateArtists < ActiveRecord::Migration[5.2]
     artist.string :name
   end
 end
+end
